@@ -81,7 +81,7 @@
       <td>
         <ul>
           <li>👨‍💻 All projects available on <strong>GitHub</strong></li>
-          <li>📝 I write articles on <a href="https://yourwebsite.com"><strong>My Blog</strong></a></li>
+          <li>📝 I write articles on <a href="https://www.facebook.com/Debarjunmaharaj"><strong>My Facebook profile</strong></a></li>
           <li>🎯 2025 Goal: <strong>Contribute to Open Source</strong></li>
           <li>⚡ Fun fact: <strong>Code by day, Game by night</strong></li>
         </ul>
