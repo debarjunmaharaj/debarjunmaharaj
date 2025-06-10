@@ -99,7 +99,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="40"> Latest Projects
 
 <div align="center">
-  <a href="https://github.com/debarjunmaharaj/project-name">
+  <a href="https://github.com/debarjunmaharaj?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=debarjunmaharaj&repo=project-name&theme=react&bg_color=0d1117&border_color=4169e1" />
   </a>
 </div>
@@ -110,13 +110,13 @@
       <td width="50%">
         <h3 align="center">✨ E-Commerce Platform</h3>
         <p align="center">
-          <a href="https://github.com/debarjunmaharaj/project1" target="_blank">
+          <a href="https://github.com/debarjunmaharaj?tab=repositories" target="_blank">
             <img src="https://cdn.dribbble.com/userupload/6989333/file/original-27613725f4f7a79e2c6adc997bd6fa3e.gif" width="100%" alt="Project 1"/>
           </a>
           <p align="center">
             WordPress e-commerce platform with custom theme and plugins
             <br><br>
-            <a href="https://github.com/debarjunmaharaj/project1" target="_blank">
+            <a href="https://github.com/debarjunmaharaj/ShopWave" target="_blank">
               <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
             </a>  
             <a href="https://project1.com" target="_blank">
@@ -128,7 +128,7 @@
       <td width="50%">
         <h3 align="center">✨ CRM Dashboard</h3>
         <p align="center">
-          <a href="https://github.com/debarjunmaharaj/project2" target="_blank">
+          <a href="https://github.com/debarjunmaharaj/PHP-Portfolio-CMS" target="_blank">
             <img src="https://cdn.dribbble.com/users/2514208/screenshots/20552658/media/f0ab29afd7ef8e3b998130e3df952c7a.gif" width="100%" alt="Project 2"/>
           </a>
           <p align="center">
