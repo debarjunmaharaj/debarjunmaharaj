@@ -1,78 +1,117 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d1b4b,100:00d4ff&height=280&section=header&text=Debarjun%20Maharaj&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Android%20%7C%205%2B%20Years&descSize=18&descAlignY=62&descColor=00d4ff&stroke=00d4ff&strokeWidth=2)
+<!-- HEADER BANNER - capsule-render (very reliable on GitHub) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a6e,80:0047ab,100:00bfff&height=260&section=header&text=Debarjun%20Maharaj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Android%20%7C%205%2B%20Years&descSize=17&descAlignY=64&descColor=a0d8ff" alt="header" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=🌐+Full+Stack+Web+Developer;📱+Android+App+Developer+(Kotlin+%26+Java);⚡+Laravel+%7C+PHP+%7C+Python+Expert;🎨+Tailwind+CSS+%7C+UI+Craftsman;🚀+5%2B+Years+of+Shipping+Real+Products)](https://git.io/typing-svg)
+<!-- TYPING ANIMATION - demolab (reliable) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=680&lines=%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%93%B1+Android+Developer+(Kotlin+%26+Java);%E2%9A%A1+Laravel+%7C+PHP+%7C+Python+Backend+Expert;%F0%9F%8E%A8+Tailwind+CSS+%7C+UI+Craftsman;%F0%9F%9A%80+5%2B+Years+of+Shipping+Real+Products" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/netfie)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/debarjunmaharaj)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/debarjunmaharaj)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Netfie)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Debarjunmaharaj)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:debarjunofficial@gmail.com)
+<!-- SOCIAL BADGES - shields.io (most reliable badge service) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/netfie)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/debarjunmaharaj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/debarjunmaharaj)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Netfie)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Debarjunmaharaj)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debarjunofficial@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=debarjunmaharaj&color=00d4ff&style=flat-square&label=Profile+Views)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=debarjunmaharaj&color=00bfff&style=flat-square&label=👁️+Profile+Views)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/debarjunmaharaj?label=Followers&style=flat-square&color=00bfff&labelColor=0d1117)](https://github.com/debarjunmaharaj)
 
 </div>
 
 ---
 
-## 🧑‍💻 Who Am I?
+<br/>
 
+## 🧑‍💻 About Me
+
+<!-- Kotlin code block makes it look sharp for an Android dev -->
 ```kotlin
 object DebarjunMaharaj {
 
     val name        = "Debarjun Maharaj"
-    val role        = "Full Stack Developer — Web & Android"
-    val experience  = "5–6 Years"
+    val title       = "Full Stack Developer — Web & Android"
+    val experience  = "5 to 6 Years"
     val location    = "India 🇮🇳"
 
-    val languages   = listOf("Kotlin", "Java", "PHP", "Python", "JavaScript", "HTML", "CSS")
-    val frameworks  = listOf("Laravel", "Tailwind CSS", "Bootstrap", "jQuery")
-    val mobile      = listOf("Android (Kotlin)", "Android (Java)")
-    val databases   = listOf("MySQL", "SQLite", "Firebase")
-    val tools       = listOf("Git", "VS Code", "Android Studio", "Figma", "Postman")
-
-    val currentFocus = listOf(
-        "📱 Actively practicing Android App Development",
-        "⚙️  Deepening Laravel & advanced PHP scripting",
-        "🤖 Exploring AI integration in web apps"
+    // 💻 Languages I write daily
+    val languages   = listOf(
+        "Kotlin", "Java",           // Android
+        "PHP", "Python",            // Backend
+        "HTML", "CSS", "JavaScript" // Frontend
     )
 
-    val goal2025    = "Ship impactful open-source projects"
-    val funFact     = "I turn caffeine into clean code  ☕ → 💻"
+    // ⚡ Frameworks & Tools
+    val frameworks  = listOf("Laravel", "Tailwind CSS", "Bootstrap", "jQuery")
+    val mobile      = listOf("Android — Kotlin", "Android — Java")
+    val databases   = listOf("MySQL", "SQLite", "Firebase")
+    val devTools    = listOf("Android Studio", "VS Code", "Git", "Postman", "Figma")
+
+    // 🎯 Currently Focusing On
+    val currentFocus = mapOf(
+        "Mobile"  to "Actively practising Android App Development",
+        "Backend" to "Deepening Laravel & advanced PHP scripting",
+        "AI"      to "Exploring AI integration in web applications"
+    )
+
+    val goal2025    = "Ship meaningful open-source projects 🚀"
+    val funFact     = "I turn caffeine into clean code ☕ → 💻"
 }
 ```
 
+<br/>
+
 ---
 
-## 📱 My App on Google Play
+## 📱 My App — Live on Google Play
+
+<br/>
 
 <div align="center">
 
+<!-- App logo from Google Play CDN - direct URL, very reliable -->
 <a href="https://play.google.com/store/apps/details?id=com.netfie.dainikinfobangla">
-  <img src="https://play-lh.googleusercontent.com/B2t8MsPmzSEWL3g8f2p5epLKDribpALiBD27QWXThQxZ7nKr95o7pwEgqxVasfDiHiHFQG01F7DwVpahWXYmyA=w240-h480-rw" width="90" alt="Dainik Info Bangla" />
+  <img src="https://play-lh.googleusercontent.com/B2t8MsPmzSEWL3g8f2p5epLKDribpALiBD27QWXThQxZ7nKr95o7pwEgqxVasfDiHiHFQG01F7DwVpahWXYmyA=w240-h480-rw" width="100" alt="Dainik Info Bangla App Icon" style="border-radius: 18px"/>
 </a>
 
-### **Dainik Info Bangla** — Bengali News App
+<br/><br/>
 
-> 🗞️ Delivering real-time Bengali news to thousands of users across the community
+### 🗞️ Dainik Info Bangla
 
-[![Download](https://img.shields.io/badge/▶%20Download%20on%20Google%20Play-00d4ff?style=for-the-badge&logo=google-play&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.netfie.dainikinfobangla)
+**Bengali News App** delivering real-time news & updates to the Bengali-speaking community
 
-`Kotlin` &nbsp;•&nbsp; `Android` &nbsp;•&nbsp; `Firebase` &nbsp;•&nbsp; `REST API`
+<br/>
+
+| Platform | Stack | Status |
+|:---:|:---:|:---:|
+| 🤖 Android | Kotlin + Firebase | ✅ Live |
+
+<br/>
+
+[![Download on Google Play](https://img.shields.io/badge/▶%20%20Download%20on%20Google%20Play-00bfff?style=for-the-badge&logo=google-play&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.netfie.dainikinfobangla)
+
+<!-- Google Play official badge - hosted on Google's CDN -->
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.netfie.dainikinfobangla">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="Get it on Google Play"/>
+</a>
 
 </div>
+
+<br/>
 
 ---
 
@@ -80,51 +119,72 @@ object DebarjunMaharaj {
 
 <div align="center">
 
-### 📱 Android / Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 📱 Android / Mobile Development
+<!-- skillicons.dev - very reliable on GitHub -->
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase&theme=dark" alt="Android Stack" />
 
-### 🌐 Web — Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### 🎨 Web — Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<br/>
+
+### 🌐 Backend Development
+<img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,sqlite&theme=dark" alt="Backend Stack" />
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+<br/>
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,jquery&theme=dark" alt="Frontend Stack" />
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+<br/>
 
 ### 🛠️ Tools & Design
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,ps,ai,wordpress&theme=dark" alt="Tools" />
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 </div>
+
+<br/>
 
 ---
 
-## 🏆 What I Do Best
+## 🏆 What I Build
+
+<br/>
 
 <div align="center">
 
-| 🌐 Web Development | 📱 Android Development | 🎨 UI / UX |
+| 📱 Android Apps | 🌐 Web — Backend | 🎨 Web — Frontend |
 |:---|:---|:---|
-| ⚡ Laravel apps & REST APIs | 📱 Native Android with Kotlin | 🎨 Tailwind CSS layouts |
-| 🔧 Advanced PHP scripting | ☕ Java Android projects | 🖌️ Figma & Photoshop |
-| 🏗️ WordPress custom themes | 🔥 Firebase integration | 💡 Responsive design |
-| 🗄️ MySQL database design | 📡 REST API consumption | ✨ Clean modern interfaces |
+| Native Android with Kotlin | Laravel apps & REST APIs | Tailwind CSS layouts |
+| Java Android projects | Advanced PHP scripting | Responsive design |
+| Firebase integration | WordPress custom themes | Figma → Code |
+| REST API consumption | MySQL database design | Clean modern UI |
 
 </div>
+
+<br/>
 
 ---
 
@@ -132,22 +192,29 @@ object DebarjunMaharaj {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=debarjunmaharaj&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarjunmaharaj&layout=compact&hide_border=true&title_color=00d4ff&text_color=00d4ff&bg_color=0d1117&langs_count=8" />
+<!-- github-readme-stats - most popular, very reliable -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=debarjunmaharaj&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
+&nbsp;
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarjunmaharaj&layout=compact&hide_border=true&title_color=00bfff&text_color=00bfff&bg_color=0d1117&langs_count=8&card_width=300" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="68%" src="https://nirzak-streak-stats.vercel.app/?user=debarjunmaharaj&theme=dark&hide_border=true&stroke=00d4ff&fire=4169e1&currStreakNum=00d4ff&ring=4169e1&currStreakLabel=4169e1&sideNums=00d4ff&sideLabels=8892a4&dates=ffffff&background=0d1117" />
+<!-- Streak stats - reliable fork -->
+<img width="65%" src="https://streak-stats.demolab.com?user=debarjunmaharaj&theme=dark&hide_border=true&stroke=00bfff&fire=4169e1&currStreakNum=00bfff&ring=4169e1&currStreakLabel=4169e1&sideNums=00bfff&sideLabels=8892a4&dates=aaaaaa&background=0d1117" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=debarjunmaharaj&bg_color=0d1117&color=00d4ff&line=4169e1&point=00d4ff&area=true&hide_border=true&area_color=00d4ff" />
+<!-- Activity graph - reliable -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=debarjunmaharaj&bg_color=0d1117&color=00bfff&line=0047ab&point=00bfff&area=true&hide_border=true" alt="Activity Graph"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=debarjunmaharaj&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" />
+<!-- Trophies - reliable -->
+<img src="https://github-profile-trophy.vercel.app/?username=debarjunmaharaj&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" alt="GitHub Trophies"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -155,82 +222,107 @@ object DebarjunMaharaj {
 
 <div align="center">
 
+<!-- Pinned repo cards - reliable via github-readme-stats -->
 <a href="https://github.com/debarjunmaharaj/ShopWave">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=debarjunmaharaj&repo=ShopWave&theme=react&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&icon_color=4169e1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=debarjunmaharaj&repo=ShopWave&theme=dark&bg_color=0d1117&border_color=00bfff&title_color=00bfff&icon_color=0047ab&show_owner=true" alt="ShopWave"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/debarjunmaharaj/PHP-Portfolio-CMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=debarjunmaharaj&repo=PHP-Portfolio-CMS&theme=react&bg_color=0d1117&border_color=7F52FF&title_color=00d4ff&icon_color=7F52FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=debarjunmaharaj&repo=PHP-Portfolio-CMS&theme=dark&bg_color=0d1117&border_color=7F52FF&title_color=00bfff&icon_color=7F52FF&show_owner=true" alt="PHP Portfolio CMS"/>
 </a>
 
 </div>
 
 <br/>
 
-<table align="center">
+<table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-**🛒 ShopWave — E-Commerce Platform**
+### 🛒 E-Commerce Platform
+> Full WooCommerce solution with custom theme, payment gateway & admin dashboard
 
-<a href="https://github.com/debarjunmaharaj/ShopWave">
-  <img src="https://cdn.dribbble.com/userupload/6989333/file/original-27613725f4f7a79e2c6adc997bd6fa3e.gif" width="100%" alt="ShopWave"/>
-</a>
+**Stack:**
+`WordPress` `PHP` `WooCommerce` `MySQL` `jQuery`
 
-Full WooCommerce platform — custom theme, payment gateway & admin panel
-
-[![Repo](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/debarjunmaharaj/ShopWave)
-[![Demo](https://img.shields.io/badge/Live%20Demo-0d1117?style=flat-square&logo=vercel&logoColor=00ff9d)](https://project1.com)
-
-`WordPress` `PHP` `WooCommerce` `MySQL`
+[![View Code](https://img.shields.io/badge/📂%20View%20Code-0d1117?style=for-the-badge&logo=github&logoColor=00bfff)](https://github.com/debarjunmaharaj/ShopWave)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff9d)](https://project1.com)
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-**📊 CRM Dashboard**
+### 📊 CRM Dashboard
+> Laravel CRM with analytics, reporting, REST API & role-based access control
 
-<a href="https://github.com/debarjunmaharaj/PHP-Portfolio-CMS">
-  <img src="https://cdn.dribbble.com/users/2514208/screenshots/20552658/media/f0ab29afd7ef8e3b998130e3df952c7a.gif" width="100%" alt="CRM"/>
-</a>
+**Stack:**
+`Laravel` `PHP` `MySQL` `Tailwind CSS` `Chart.js`
 
-Laravel CRM with analytics, reporting & role-based access control
+[![View Code](https://img.shields.io/badge/📂%20View%20Code-0d1117?style=for-the-badge&logo=github&logoColor=7F52FF)](https://github.com/debarjunmaharaj/PHP-Portfolio-CMS)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=f472b6)](https://project2.com)
 
-[![Repo](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=7F52FF)](https://github.com/debarjunmaharaj/PHP-Portfolio-CMS)
-[![Demo](https://img.shields.io/badge/Live%20Demo-0d1117?style=flat-square&logo=vercel&logoColor=f472b6)](https://project2.com)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Laravel` `PHP` `MySQL` `Tailwind CSS`
+### 📱 Dainik Info Bangla
+> Native Android Bengali news app with real-time updates via Firebase
+
+**Stack:**
+`Kotlin` `Android` `Firebase` `REST API` `Retrofit`
+
+[![Play Store](https://img.shields.io/badge/▶%20Play%20Store-0d1117?style=for-the-badge&logo=google-play&logoColor=00bfff)](https://play.google.com/store/apps/details?id=com.netfie.dainikinfobangla)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 More Projects
+> Browse all my repositories — web apps, Android apps, PHP scripts and more
+
+[![All Repos](https://img.shields.io/badge/📁%20View%20All%20Repos-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/debarjunmaharaj?tab=repositories)
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## 🌐 Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/netfie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/debarjunmaharaj"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://instagram.com/debarjunmaharaj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://youtube.com/@Netfie"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://www.facebook.com/Debarjunmaharaj"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="mailto:debarjunofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/netfie)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/debarjunmaharaj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/debarjunmaharaj)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Netfie)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Debarjunmaharaj)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debarjunofficial@gmail.com)
+
+<br/>
+
+<!-- Animated GIF - hosted on GitHub's own CDN, very reliable -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200">
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250" />
+<!-- Random dev quote - reliable -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" alt="Dev Quote"/>
 
-<br/>
+<br/><br/>
 
-> *"First, solve the problem. Then, write the code."*
-
-<br/>
+**👀 Visitor Count**
 
 ![Visitors](https://profile-counter.glitch.me/debarjunmaharaj/count.svg)
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:4169e1,100:000000&height=150&section=footer&animation=twinkling)
+<!-- FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:0047ab,100:0d1117&height=140&section=footer&animation=twinkling" alt="footer" width="100%"/>
 
 </div>
